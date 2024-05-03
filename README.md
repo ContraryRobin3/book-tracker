@@ -1,8 +1,8 @@
-# Digital Clock
+# Book Tracker
 
-A simple digital clock web app, using the React Framework.
+Book Tracker is an app for keeping track of books that you have read. You can write reviews and notes on what you thought of the books as you read them.
 
-Live App Available at [clock.derickmurphy.com](https://clock.derickmurphy.com/)
+
 
 ## Build instructions
 
@@ -12,19 +12,12 @@ To build the app simply install the dependencies:
 npm install
 ```
 
-and then run the build script:
+and then run the node server:
 
 ```bash
-npm run build
+node index.js
 ```
 
-This will build the project and ouput the result into the dist folder.
-
-You can also run a live dev preview by running the dev script:
-
-```bash
-npm run dev
-```
 
 ## License
 Copyright © 2024 [Derick Murphy](https://github.com/ContraryRobin3)
